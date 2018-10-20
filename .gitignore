@@ -3,3 +3,4 @@ DS_STORE
 .logs
 https
 .env.js
+node_modules
